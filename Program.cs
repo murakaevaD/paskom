@@ -10,7 +10,7 @@ namespace kompas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("компас");
+            Console.WriteLine("шоколад");
         }
     }
 }
