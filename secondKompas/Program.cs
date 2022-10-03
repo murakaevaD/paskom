@@ -10,7 +10,7 @@ namespace secondKompas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Хочу твикс");
+            Console.WriteLine(" твикс");
         }
     }
 }
