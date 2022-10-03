@@ -184,22 +184,16 @@ namespace kompas
             //Console.WriteLine();
 
             //Console.WriteLine("номер 11 есть ли эта последовательность упорядоченной по возрастанию");
-            //const byte o = 10;
-            //int[] p = new int[o];
-            //for (int i = 0; i < o; i++)
+            //Console.WriteLine("Введите последовательность: ");
+            //string chis = Console.ReadLine();
+            //for (int o = 0; o < chis.Length - 1; o++)
             //{
-            //    Console.Write("Введите " + i + " элемент последовательности: ");
-            //    p[i] = int.Parse(Console.ReadLine());
-            //}
-            //for (int i = 1; i < p.Length; i++)
-            //{
-            //    if (p[i] <= p[i - 1])
+            //    if (chis[o] > chis[o + 1])
             //    {
-            //        Console.WriteLine(p[i]);
+            //        Console.WriteLine("Последовательность не возрастающая, индекс нарушающего числа={0}", o + 1);
             //        break;
             //    }
             //}
-            //Console.ReadKey();
         }
     }
 }
