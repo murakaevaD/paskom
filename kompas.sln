@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kompas", "kompas.csproj", "{BC899328-8BEF-42A8-8386-61A69137017D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "secondKompas", "secondKompas\secondKompas.csproj", "{07FC63DD-4C1A-48E0-86FB-E43B99A659B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC899328-8BEF-42A8-8386-61A69137017D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC899328-8BEF-42A8-8386-61A69137017D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC899328-8BEF-42A8-8386-61A69137017D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC899328-8BEF-42A8-8386-61A69137017D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07FC63DD-4C1A-48E0-86FB-E43B99A659B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FC63DD-4C1A-48E0-86FB-E43B99A659B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FC63DD-4C1A-48E0-86FB-E43B99A659B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FC63DD-4C1A-48E0-86FB-E43B99A659B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B1486C5-C6A6-4550-801B-AFBBE8DAA503}
+	EndGlobalSection
+EndGlobal
